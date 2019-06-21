@@ -1,5 +1,5 @@
 # Live-Cryptocurrency-Tracker
-Mobile app to track the latest cryptocurrencies
+Mobile app for Android & iOS to track the latest cryptocurrencies built with React Native.
 
 ![img](https://i.imgur.com/d6kJtv5.png)
 ![img](https://i.imgur.com/0D5bvVO.png)
